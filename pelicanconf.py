@@ -1,6 +1,6 @@
 AUTHOR = 'sintegra'
 SITENAME = 'Blog - Sintegra Consulting'
-SITEURL = 'https://karim116.github.io/blog/'
+SITEURL = 'http://localhost:8000'
 THEME = '/home/karim/.local/lib/python3.8/site-packages/pelican/themes/genus'
 PATH = 'content'
 STATIC_PATHS = ['images']
