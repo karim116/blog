@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Tipue Search
-============
-A Pelican plugin to serialize generated HTML to JSON
-that can be used by jQuery plugin - Tipue Search.
-Copyright (c) Talha Mansoor
-"""
+
 
 from __future__ import unicode_literals
 
